@@ -5,5 +5,5 @@ import "fmt"
 
 // CallLib simple writes a string to the console.
 func CallLib() {
-	fmt.Println("Here is somelib - version 0.0.2")
+	fmt.Println("Here is somelib - version 1.0.0")
 }
