@@ -1,8 +1,9 @@
+// Package somelib shows how to build a simple golang library.
 package somelib
 
 import "fmt"
 
-// CallLib calls something
+// CallLib simple writes a string to the console.
 func CallLib() {
 	fmt.Println("Here is somelib")
 }
